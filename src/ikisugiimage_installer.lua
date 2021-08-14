@@ -56,3 +56,8 @@ download("https://github.com/MORIMORI0317/IkisugiImage/raw/main/src/images/gban.
 download("https://github.com/MORIMORI0317/IkisugiImage/raw/main/src/images/ikisugi.png", "ikisugi.png", "./images/")
 download("https://github.com/MORIMORI0317/IkisugiImage/raw/main/src/images/katyou.png", "katyou.png", "./images/")
 download("https://github.com/MORIMORI0317/IkisugiImage/raw/main/src/images/yj.png", "yj.png", "./images/")
+download("https://github.com/MORIMORI0317/IkisugiImage/raw/main/src/images/77.png", "77.png", "./images/")
+download("https://github.com/MORIMORI0317/IkisugiImage/raw/main/src/images/bnkn.png", "bnkn.png", "./images/")
+download("https://github.com/MORIMORI0317/IkisugiImage/raw/main/src/images/dokata.png", "dokata.png", "./images/")
+download("https://github.com/MORIMORI0317/IkisugiImage/raw/main/src/images/kbtit.png", "kbtit.png", "./images/")
+download("https://github.com/MORIMORI0317/IkisugiImage/raw/main/src/images/nikuoja.png", "nikuoja.png", "./images/")

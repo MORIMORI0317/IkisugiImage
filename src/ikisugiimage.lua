@@ -1,10 +1,10 @@
 local pngImage = require('png')
 local biTop = require('funcs')
 
-local images = { "images/yj.png", "images/katyou.png", "images/ikisugi.png", "images/gban.png", "images/fcoh.png" }
+local images = { "images/yj.png", "images/katyou.png", "images/ikisugi.png", "images/gban.png", "images/fcoh.png" , "images/77.png" , "images/bnkn.png" , "images/dokata.png" , "images/kbtit.png" , "images/nikuoja.png" }
 -- Mirror: 0=None 1=Left right 2=Up down 3=All
-local mirror = { 0, 3, 0, 0, 0 }
-local roted = { true, false, true, true, true }
+local mirror = { 0, 3, 0, 0, 0, 0, 0, 0, 0, 0 }
+local roted = { true, false, true, true, true, true, true, true, true, true }
 local speed = 3
 
 local cols = { 0xF0F0F0, 0xF2B233, 0xE57FD8, 0x99B2F2, 0xDEDE6C, 0x7FCC19, 0xF2B2CC, 0x4C4C4C, 0x999999, 0x4C99B2, 0xB266E5, 0xB266E5, 0x7F664C, 0x57A64E, 0xCC4C4C, 0x191919 };
