@@ -16,7 +16,7 @@ https://github.com/Didericis/png-lua
 wget run https://raw.githubusercontent.com/MORIMORI0317/IkisugiImage/main/src/ikisugiimage_installer.lua  
 生成されたikisugiimage.luaを実行
 
-#画像の追加方法
+# 画像の追加方法  
 PNG形式の画像を用意する(PNG以外の場合はFFmpegとか変換サイトを利用してどうぞ)  
 用意したPNG画像をgimpで画像モードをインデックスにする（Filter Typeを1にできれば何でも良き）  
 ![KatyouImage](https://cdn.discordapp.com/attachments/523502209988821033/876596611936055356/2021-08-16_07h41_52.png)  
