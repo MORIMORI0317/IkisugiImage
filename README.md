@@ -18,7 +18,7 @@ wget run https://raw.githubusercontent.com/MORIMORI0317/IkisugiImage/main/src/ik
 
 #画像の追加方法
 PNG形式の画像を用意する(PNG以外の場合はFFmpegとか変換サイトを利用してどうぞ)  
-用意したPNG画像をgimpで画像モードをインデックスにする（Filter Typeを1にできれば何でも良き）
+用意したPNG画像をgimpで画像モードをインデックスにする（Filter Typeを1にできれば何でも良き）  
 ![KatyouImage](https://cdn.discordapp.com/attachments/523502209988821033/876596611936055356/2021-08-16_07h41_52.png)  
 完成したPNGをインストールしたディレクトリ内のimages内にwget等でダウンロードする  
 editでikisugiimage.lua内のlocal images = {...}に画像のパスを加え、mirrorとrotedには0,tureで実際に実行して反転してたりしたらいろいろ変更する
